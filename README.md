@@ -11,6 +11,7 @@ Backend Developer from India focused on building scalable APIs, authentication s
 <p>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:venukaranam64942@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/venu-karanam-291052386?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge)](https://sivananda.is-a.dev/) -->
 
